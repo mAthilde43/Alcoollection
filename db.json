@@ -1,0 +1,11 @@
+{
+  "vins": [
+    {
+      "title": "vin bordeaux",
+      "category": "vins",
+      "subcategory": "rouge",
+      "pays": "France",
+      "annee": "2003"
+    }
+  ]
+}
