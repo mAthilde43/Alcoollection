@@ -7,6 +7,7 @@ import Rhum from "./pages/Rhum";
 import Biere from "./pages/Biere";
 import Liqueurs from "./pages/Liqueurs";
 import Cocktails from "./pages/Cocktails";
+import Footer from "./components/Footer/Footer";
 
 function App() {
   return (
@@ -20,7 +21,7 @@ function App() {
         <Route path="/liqueurs" element={<Liqueurs />}></Route>
         <Route path="/cocktails" element={<Cocktails />}></Route>
       </Routes>
-      {/* <Footer /> */}
+      <Footer />
     </div>
   );
 }

@@ -1,11 +1,54 @@
 {
   "vins": [
     {
-      "title": "vin bordeaux",
+      "title": "Vin Rouge",
       "category": "vins",
-      "subcategory": "rouge",
+      "subcategory": "vin-rouge",
       "pays": "France",
-      "annee": "2003"
+      "annee": "2003",
+      "degre": "3%",
+      "image": "https://i.f1g.fr/media/cms/orig/2024/06/10/41b1b64f8aab3cbeb62993374aa49e2da84e9ca402b8ab43cbe33f37bd5b7f6c.jpeg",
+      "description": "Ce vin rouge français de 2003 offre des arômes fruités et une texture douce, parfait pour accompagner des plats de viande ou de fromage."
+    },
+    {
+      "title": "vin rouge 2",
+      "category": "vins",
+      "subcategory": "vin-rouge",
+      "pays": "France",
+      "annee": "2003",
+      "degre": "3%",
+      "image": "https://i.f1g.fr/media/cms/orig/2024/06/10/41b1b64f8aab3cbeb62993374aa49e2da84e9ca402b8ab43cbe33f37bd5b7f6c.jpeg",
+      "description": "Ce vin rouge français de 2003 offre des arômes fruités et une texture douce, parfait pour accompagner des plats de viande ou de fromage."
+    },
+    {
+      "title": "vin blanc",
+      "category": "vins",
+      "subcategory": "vin-blanc",
+      "pays": "France",
+      "annee": "2003",
+      "degre": "3%",
+      "image": "https://i.f1g.fr/media/cms/orig/2024/06/10/41b1b64f8aab3cbeb62993374aa49e2da84e9ca402b8ab43cbe33f37bd5b7f6c.jpeg",
+      "description": "Ce vin rouge français de 2003 offre des arômes fruités et une texture douce, parfait pour accompagner des plats de viande ou de fromage."
+    },
+    {
+      "title": "vin rose",
+      "category": "vins",
+      "subcategory": "vin-rose",
+      "pays": "France",
+      "annee": "2003",
+      "degre": "3%",
+      "image": "https://i.f1g.fr/media/cms/orig/2024/06/10/41b1b64f8aab3cbeb62993374aa49e2da84e9ca402b8ab43cbe33f37bd5b7f6c.jpeg",
+      "description": "Ce vin rouge français de 2003 offre des arômes fruités et une texture douce, parfait pour accompagner des plats de viande ou de fromage."
+    },
+    {
+      "title": "vin effervescent",
+      "category": "vins",
+      "subcategory": "vin-effervescent",
+      "pays": "France",
+      "annee": "2003",
+      "degre": "3%",
+      "image": "https://i.f1g.fr/media/cms/orig/2024/06/10/41b1b64f8aab3cbeb62993374aa49e2da84e9ca402b8ab43cbe33f37bd5b7f6c.jpeg",
+      "description": "Ce vin rouge français de 2003 offre des arômes fruités et une texture douce, parfait pour accompagner des plats de viande ou de fromage."
     }
   ]
 }
