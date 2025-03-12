@@ -22,6 +22,7 @@ const Vins = () => {
       .map((vin) => (
         <Card
           key={vin.title}
+          id={vin.id}
           title={vin.title}
           image={vin.image}
           pays={vin.pays}

@@ -3,7 +3,7 @@
   font-weight: 200;
   display: flex;
   align-items: center;
-  padding: 10px 40px;
+  padding: 12px 40px;
   text-align: left;
 }
 
@@ -31,4 +31,23 @@
   font-weight: 200;
   margin: 5px 0;
   font-size: 14px;
+}
+
+.learnMoreButton {
+  font-family: "Raleway", sans-serif;
+  font-weight: 400;
+  display: inline-block;
+  padding: 6px 10px;
+  margin-top: 8px;
+  background-color: #d89d33;
+  color: #000;
+  text-decoration: none;
+  border-radius: 50px;
+  font-size: 14px;
+  text-align: center;
+  transition: background-color 0.3s;
+}
+
+.learnMoreButton:hover {
+  background-color: #004080;
 }

@@ -1,6 +1,6 @@
+import { NavLink } from "react-router-dom";
 import classes from "./Card.module.css";
-
-const Card = ({ title, image, pays, annee, degre, description }) => {
+const Card = ({ title, image, pays, annee, degre, description, id }) => {
   return (
     <div className={classes.card}>
       <img src={image} alt={title} className={classes.cardImage} />
@@ -10,6 +10,9 @@ const Card = ({ title, image, pays, annee, degre, description }) => {
           {pays} - {annee} - {degre}
         </p>
         <p>{description}</p>
+        <NavLink to={`/details/${id}`} className={classes.learnMoreButton}>
+          En savoir plus
+        </NavLink>
       </div>
     </div>
   );

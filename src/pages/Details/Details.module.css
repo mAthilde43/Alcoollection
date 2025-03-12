@@ -1,0 +1,62 @@
+/* body {
+  background-color: #000;
+} */
+
+.detailsContainer {
+  max-width: 800px;
+  margin: 40px auto;
+  /* background: #000; */
+  background-image: url("../../images/footer.jpg");
+
+  padding: 20px;
+  border-radius: 10px;
+}
+
+.detailsTitle {
+  font-family: "Caveat", cursive;
+  color: #d89d34;
+  font-size: 40px;
+  font-weight: bold;
+  margin-bottom: 20px;
+}
+
+.detailsContent {
+  display: flex;
+  gap: 20px;
+}
+
+.detailsImage {
+  width: 35%;
+  max-height: 400px;
+  border-radius: 10px;
+  object-fit: cover;
+}
+
+.detailsText {
+  width: 60%;
+  color: #fff;
+  text-align: left;
+  font-family: "Raleway", sans-serif;
+  font-weight: 400;
+}
+
+.detailsText p {
+  margin: 5px 0;
+}
+
+.backButton {
+  font-family: "Raleway", sans-serif;
+  font-weight: 400;
+  display: inline-block;
+  margin-top: 20px;
+  padding: 10px 15px;
+  background: #d89d34;
+  color: #000;
+  text-decoration: none;
+  border-radius: 50px;
+}
+
+.backButton:hover {
+  background: #2d1504;
+  color: #fff;
+}

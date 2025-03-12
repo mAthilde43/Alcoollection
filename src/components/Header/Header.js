@@ -48,8 +48,8 @@ const Header = ({ isHome, title, subtitle }) => {
               </NavLink>
             </li>
             <li>
-              <NavLink to="/biere" className={linkActive}>
-                Bière
+              <NavLink to="/bieres" className={linkActive}>
+                Bières
               </NavLink>
             </li>
             <li>
