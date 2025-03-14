@@ -1,4 +1,5 @@
 import classes from "./Footer.module.css";
+import React from "react";
 import { NavLink } from "react-router-dom";
 import imageFooter from "../../images/footer.jpg";
 
